@@ -1,5 +1,8 @@
 // 3. Guess what letter I'm thinking of
 // First Step: computer has to guess a letter. The letters has to be stored in a variable. 
+    //create array of letters for computer to choose from
+    //have computer choose letter
+    //store letter chosen by computer
 
 // 4. Wins: (# of times the user has guessed the letter correctly)
 //Want user to see wins and the number of time letters guessed correctly. Create variable for wins in HTML user can see
@@ -18,3 +21,6 @@
 
 // 9. When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
 //Make page reload if user loses and add the lose to their loss counter visible using HTML.
+
+
+document.write("test");
